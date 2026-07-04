@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="ic_launcher_background">#FFB35C</color>
+    <style name="Theme.MealWatch" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF7A00</item>
+        <item name="colorPrimaryVariant">#CC5F00</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:statusBarColor" tools:targetApi="l">#FF7A00</item>
+    </style>
+</resources>
